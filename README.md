@@ -9,7 +9,7 @@ There are 2 files in github. They are zip files since the poject was comprised o
 
 Installing
 -----------------------------
-The main zip file is titles after the project, SportsReserve. Unzip that one first. The second zip file contains a folder titles "app". The "app" folder will go in the "SportsReserve" folder. When that is complete, open up the project with Android studio. When opening a project with Android Studio, select the SportsReserve folder. 
+The main zip file is titled after the project, SportsReserve. Unzip that one first. The second zip file contains a folder titles "app". The "app" folder will go in the "SportsReserve" folder. When that is complete, open up the project with Android studio. When opening a project with Android Studio, select the SportsReserve folder. 
 
 Once open, do a "clean project". When that is complete press the green arrow or select "Run App". 
 Follow prompts on selecting emulator. (Nexus 5X API 28 - PIE Android 9.0 was used in demo)
